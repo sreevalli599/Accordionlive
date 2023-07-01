@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Accordionlive/static/css/main.073c9b0a.css",
+    "main.js": "/Accordionlive/static/js/main.2ee62ca9.js",
+    "static/js/787.d8421338.chunk.js": "/Accordionlive/static/js/787.d8421338.chunk.js",
+    "index.html": "/Accordionlive/index.html",
+    "main.073c9b0a.css.map": "/Accordionlive/static/css/main.073c9b0a.css.map",
+    "main.2ee62ca9.js.map": "/Accordionlive/static/js/main.2ee62ca9.js.map",
+    "787.d8421338.chunk.js.map": "/Accordionlive/static/js/787.d8421338.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2ee62ca9.js"
+  ]
+}
